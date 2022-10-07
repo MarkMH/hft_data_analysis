@@ -3,6 +3,6 @@
 </p>
 
 
-![](https://github.com/MarkMH/wealth_health/blob/1eee2f178f036ca226e7ec672ecc4fe690817010/images/data_demographics.png)
+![](https://github.com/MarkMH/hft_data_analysis/blob/00ac519351f0fa6acc3fe0fef4050e3160048613/images/carbon_preprocessing.png)
 
 ---
